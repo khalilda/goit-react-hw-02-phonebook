@@ -28,7 +28,7 @@
   .removeButton:hover,
   .removeButton:focus {
     background: linear-gradient(#393939, #292929);
-    color: yellowgreen;
+    color: red;
     outline: none;
   }
   
