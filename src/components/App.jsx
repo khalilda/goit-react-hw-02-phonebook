@@ -72,3 +72,8 @@ export class App extends Component {
   }
 }
 
+
+
+
+// things to remember in future projects
+// the pattern was changed in the inspect - google chrome 
